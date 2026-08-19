@@ -1,0 +1,2 @@
+This repository contains the Macaulay2 files used to verify the computational examples in the paper Computing Jet Differentials and the Green–Griffiths–Lang Conjecture for Complements of Smooth Plane Curves.
+Each file corresponds to an example or family of examples in the paper and computes the relevant low-degree generators of the bigraded module $M_V$ together with the additional calculations used to determine parallel and exceptional loci when applicable.
